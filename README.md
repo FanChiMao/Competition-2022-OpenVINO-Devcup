@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 - For installing
 ```
-git clone https://github.com/FanChiMao/Competition-2022-OpenVINO-IntelDevCUP.git branch=all_process
+git clone https://github.com/FanChiMao/Competition-2022-OpenVINO-Devcup.git
 ```
 
 ## 2. Run inference 
