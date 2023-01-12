@@ -1,7 +1,6 @@
 # [OpenVINO] CyberAudio 2022 -- digital audio system  
 ## Team Members: Kelvin, Harry, Henry, Edward, Joe, [Jonathan](https://github.com/FanChiMao)  
 - [**2022 Intel DevCUP** website](https://makerpro.cc/intel-devcup/)  
-[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://drive.google.com/file/d/1LDmDUT5zwMKbjmsCHKE89hE5jh0sS-8r/view?usp=share_link)  
 
 > Abstract : 本案採用 Music Source Separation(MSS) 與 Music Transcription(MT) 兩項技術分離
 樂曲音源並生成樂譜，首先在 MSS 技術實作上，我們將樂曲透過短時距傅立葉變換
@@ -45,8 +44,13 @@ git clone https://github.com/FanChiMao/Competition-2022-OpenVINO-Devcup.git
     python openvino_inference.py --input_audio ./sample_audio/Faded.wav --type vocals --result_dir ./result
     ```
 
-## 3. Example transcription results
-  TODO: 
+## 3. Example transcription results  
+[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://drive.google.com/file/d/1LDmDUT5zwMKbjmsCHKE89hE5jh0sS-8r/view?usp=share_link)  
+<audio controls="controls">
+  <source type="audio/mp3" src="filename.mp3"></source>
+  <source type="audio/ogg" src="filename.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 ## 4. Reference  
 - OpenVINO: https://github.com/openvinotoolkit/openvino  
