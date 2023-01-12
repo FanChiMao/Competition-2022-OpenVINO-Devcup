@@ -1,5 +1,5 @@
 # [OpenVINO] CyberAudio 2022 -- digital audio system  
-## Kelvin, Harry, Henry, Edward, Joe, [Jonathan](https://github.com/FanChiMao)  
+## Team Members: Kelvin, Harry, Henry, Edward, Joe, [Jonathan](https://github.com/FanChiMao)  
 
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://drive.google.com/file/d/1LDmDUT5zwMKbjmsCHKE89hE5jh0sS-8r/view?usp=share_link)  
 
