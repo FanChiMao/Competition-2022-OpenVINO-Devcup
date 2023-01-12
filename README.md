@@ -1,4 +1,6 @@
-# [OpenVINO] Convert music  
+# [OpenVINO] <br/>CyberAudio  
+[![pdf](https://img.shields.io/badge/PDF-Paper-brightgreen)]() 
+[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://drive.google.com/file/d/1LDmDUT5zwMKbjmsCHKE89hE5jh0sS-8r/view?usp=share_link)  
 
 ## 1. Environment setting
 - For building environment, follow these instructions
