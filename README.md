@@ -1,6 +1,7 @@
-# [OpenVINO] CyberAudio 2022 -- digital audio system  
+# [OpenVINO] [**Intel DevCUP 2022**](https://makerpro.cc/intel-devcup/)  
+## Team Name: CyberAudio  
 ## Team Members: Kelvin, Harry, Henry, Edward, Joe, [Jonathan](https://github.com/FanChiMao)  
-- [**2022 Intel DevCUP** website](https://makerpro.cc/intel-devcup/)  
+
 
 > Abstract : 本案採用 Music Source Separation(MSS) 與 Music Transcription(MT) 兩項技術分離
 樂曲音源並生成樂譜，首先在 MSS 技術實作上，我們將樂曲透過短時距傅立葉變換
