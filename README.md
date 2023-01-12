@@ -45,7 +45,9 @@ git clone https://github.com/FanChiMao/Competition-2022-OpenVINO-Devcup.git
     ```
 
 ## 3. Example transcription results  
+![](filename.mp4 filename.mp3)
 [![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://drive.google.com/file/d/1LDmDUT5zwMKbjmsCHKE89hE5jh0sS-8r/view?usp=share_link)  
+
 <audio controls="controls">
   <source type="audio/mp3" src="filename.mp3"></source>
   <source type="audio/ogg" src="filename.ogg"></source>
