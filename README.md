@@ -1,4 +1,10 @@
 # [OpenVINO] [**Intel DevCUP 2022**](https://makerpro.cc/intel-devcup/)  
+## 🎉 This work earn the third place winner! 
+<details>  
+<summary><b>Trophy (Click to expand)</b></summary>  
+  <img src = "https://i.imgur.com/.jpg" alt="trophy_image" width="500">
+</details>
+
 ## Team Name: CyberAudio  
 ## Team Members: Kelvin, Harry, Henry, Edward, Joe, [Jonathan](https://github.com/FanChiMao)  
 
