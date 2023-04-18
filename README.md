@@ -2,7 +2,7 @@
 ## 🎉 This work earn the third place winner! 
 <details>  
 <summary><b>Trophy (Click to expand)</b></summary>  
-  <img src = "https://i.imgur.com/.jpg" alt="trophy_image" width="500">
+  <img src = "https://imgur.com/a/bPGOoFq" alt="trophy_image" width="500">
 </details>
 
 ## Team Name: CyberAudio  
