@@ -51,16 +51,6 @@ git clone https://github.com/FanChiMao/Competition-2022-OpenVINO-Devcup.git
     python openvino_inference.py --input_audio ./sample_audio/Faded.wav --type vocals --result_dir ./result
     ```
 
-## 3. Example transcription results  
-![](filename.mp4 filename.mp3)
-[![slides](https://img.shields.io/badge/Presentation-Slides-B762C1)](https://drive.google.com/file/d/1LDmDUT5zwMKbjmsCHKE89hE5jh0sS-8r/view?usp=share_link)  
-
-<audio controls="controls">
-  <source type="audio/mp3" src="filename.mp3"></source>
-  <source type="audio/ogg" src="filename.ogg"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
-
 ## 4. Reference  
 - OpenVINO: https://github.com/openvinotoolkit/openvino  
 - tf2onnx: https://github.com/onnx/tensorflow-onnx
@@ -72,4 +62,3 @@ git clone https://github.com/FanChiMao/Competition-2022-OpenVINO-Devcup.git
 ## Contact
 If you have any question, feel free to contact qaz5517359@gmail.com  
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=openvino_basic_pitch_github)  
