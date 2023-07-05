@@ -1,5 +1,5 @@
 # [OpenVINO] [**Intel DevCUP 2022**](https://makerpro.cc/intel-devcup/)  
-## 🎉 This work earn the third place winner! 
+## 🎉 This work earn the 3-rd winner! 
 <details>  
 <summary><b>Trophy (Click to expand)</b></summary>  
   <a href="https://imgur.com/2c6vBlz"><img src="https://i.imgur.com/2c6vBlz.png" title="source: imgur.com" /></a>
